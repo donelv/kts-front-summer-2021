@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-
 function App() {
   const sayHello: string = 'Hello!';
   return (
